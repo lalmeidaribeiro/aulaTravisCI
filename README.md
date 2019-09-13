@@ -1,2 +1,4 @@
 # aulaTravisCI
-Atividade prática sobre Travis. 
+Atividade prática sobre Travis. </br>
+
+Larissa Ribeiro.
